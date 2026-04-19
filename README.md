@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Hung Nguyen
-💻 I'm a Software Engineer who loves building clean and interactive web interfaces.
+💻 I'm a Software Engineer.
 
-- 🔭 I’m currently working on CMC Global  
 - ⚡ Fun fact: I enjoy turning coffee ☕ into code  
 - 📫 How to reach me: contact.nvhung@gmail.com
 
